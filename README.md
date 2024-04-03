@@ -1,6 +1,6 @@
 # "The little Taco Shop"
 
-Click for live : [try this](https://soham47238.github.io/Little-Taco-Shop/)
+# Click for live : [Try this](https://soham47238.github.io/Little-Taco-Shop/)
 
 
 **Directions:**
